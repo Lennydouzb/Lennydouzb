@@ -53,9 +53,3 @@ I have a strong interest in cybersecurity, regularly practicing my skills on pla
 <a href="https://github.com/Lennydouzb">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lennydouzb&show_icons=true&theme=radical" alt="Lenny's GitHub Stats" />
-</div>
