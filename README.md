@@ -1,9 +1,5 @@
 # 👨‍💻 Hi, I'm Lenny Desbouis !
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Low-Level | HPC %20&%20GPU%20Computing&fontSize=40&fontAlignY=35" alt="Header Banner" />
-</div>
-
 ### 🚀 About Me
 I'm a software developer currently studying at **42 Angoulême**, with a strong focus on low-level programming and high-performance computing. After completing a BTS in Software Solutions and Business Applications, I wanted to dive deeper into how machines actually work. 
 
